@@ -1,16 +1,33 @@
-## Hi there 👋
+![Portada](banner.png)
+# 👋 Hola, soy Rosa
 
-<!--
-**rsuarezcharris/rsuarezcharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧪 QA Tester Junior | Quality Assurance
 
-Here are some ideas to get you started:
+Soy QA Tester en formación, con foco en **testing manual**, **casos de prueba** y **reporte de errores**.  
+Vengo del mundo de la cocina profesional, donde desarrollé atención al detalle, disciplina y enfoque en calidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 ¿Qué hago?
+- Diseño y ejecución de casos de prueba
+- Pruebas funcionales y de regresión
+- Reporte y seguimiento de bugs
+- Testing manual en entornos ágiles
+
+---
+
+## 🛠️ Herramientas
+- Jira
+- Postman
+- Git & GitHub
+- Testing Manual
+
+---
+
+## 🎯 Objetivo
+Seguir creciendo como **QA Tester / QA Engineer Junior** y avanzar hacia automatización.
+
+---
+
+## 🌊 Hobbies
+Surf 🏄‍♀️ | Cerámica 🎨 | Pintura | Cocina 👩‍🍳
