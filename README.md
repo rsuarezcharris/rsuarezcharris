@@ -1,4 +1,4 @@
-![Portada](https://github.com/rsuarezcharris/rsuarezcharris/blob/main/Azul%20Blanco%20Abstracto%20Tecnología%20LinkedIn%20Banner.png?raw=true)
+![Portada](banner.png)
 # 👋 Hola, soy Rosa
 
 ### 🧪 QA Tester Junior | Quality Assurance
