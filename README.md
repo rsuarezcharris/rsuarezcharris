@@ -12,7 +12,6 @@ Vengo del mundo de la cocina profesional, donde desarrollé atención al detalle
 - Diseño y ejecución de casos de prueba
 - Pruebas funcionales y de regresión
 - Reporte y seguimiento de bugs
-- Testing manual en entornos ágiles
 
 ---
 
